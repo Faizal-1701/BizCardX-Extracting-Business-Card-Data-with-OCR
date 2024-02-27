@@ -29,7 +29,7 @@ Developed a dashboard app with Streamlit using Plotly to visualize the workers' 
 
 ## Dataset
 
-[Dataset Link]([link_to_dataset](https://drive.google.com/drive/folders/1lGw-OeZVAHeIH1cvNBiGClRiRmbQ-0qm?usp=share_link))
+[Dataset Link][link_to_dataset](https://drive.google.com/drive/folders/1lGw-OeZVAHeIH1cvNBiGClRiRmbQ-0qm?usp=share_link)
 
 ### About the Dataset
 
